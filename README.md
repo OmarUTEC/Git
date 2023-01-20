@@ -1,1 +1,3 @@
-# Git
+# Qué es?
+
+Git es un sistema de control de versiones de código. Es utilizado para rastrear los cambios en el código fuente a lo largo del tiempo. Git permite a los desarrolladores colaborar en un proyecto y mantener un historial de todos los cambios realizados en el código. Además, permite también trabajar de manera descentralizada, es decir, no necesita una conexión a internet para funcionar. Es uno de los sistemas de control de versiones más populares y ampliamente utilizados en la industria.
