@@ -9,7 +9,7 @@ Git es un sistema de control de versiones de código que permite a los desarroll
 # ¿Qué es GitHub?
 
 <p align="center">
-  <img src="github2.png" />
+  <img src="github2.jpg" />
 </p>
 
 GitHub es una plataforma web que proporciona alojamiento para proyectos de control de versiones que utilizan Git. Es una herramienta popular para desarrolladores de todo el mundo para alojar, compartir y colaborar en proyectos de código abierto y privado. Con GitHub, los desarrolladores pueden crear repositorios para alojar su código, seguir el progreso del proyecto, colaborar con otros desarrolladores y hacer contribuciones a proyectos de código abierto existentes. Además, GitHub proporciona una variedad de funciones adicionales, como la posibilidad de realizar revisiones de código, crear problemas y solucionarlos, y utilizar integraciones de terceros para mejorar el flujo de trabajo del equipo.
