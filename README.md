@@ -56,3 +56,14 @@ GitHub es una plataforma web que proporciona alojamiento para proyectos de contr
 6. Realiza una "commit" de los cambios utilizando el comando `git commit -m "Mensaje de commit inicial"`. El mensaje de commit es importante ya que describe los cambios realizados en el repositorio. Asegúrate de elegir un mensaje significativo.
 
 7. (Opcional) Si deseas subir tu repositorio a un servidor remoto como GitHub, debes crear un repositorio en GitHub y seguir las instrucciones para conectarte a él desde tu computadora utilizando el comando `git remote add origin <url del repositorio>`. Luego podrás subir tus cambios con el comando `git push -u origin master`
+
+# Estados de Git
+Git tiene tres estados principales:
+
+1. **Working Directory**: Es la carpeta donde tienes los archivos de tu proyecto en tu computadora. Es el estado original de los archivos antes de ser agregados al repositorio.
+
+2. **Staging Area**: Es el estado intermedio en el que los archivos son preparados para ser "commit"eados. Los archivos en el área de preparación están listos para ser incluidos en el próximo commit. Puedes usar el comando `git add` para mover los archivos desde el directorio de trabajo al área de preparación.
+
+3. **Repository**: Es el estado final en el que los archivos son guardados en el repositorio de Git. Una vez que se realiza un "commit", los archivos en el área de preparación se mueven al repositorio y se guardan en la historia de versiones de Git. Puedes usar el comando `git commit` para mover los archivos desde el área de preparación al repositorio.
+
+Es importante tener en cuenta que un archivo puede pasar a través de estos estados varias veces a medida que se realizan cambios y se registran versiones del proyecto.
