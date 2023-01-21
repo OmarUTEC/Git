@@ -102,6 +102,10 @@ Es importante tener en cuenta que un archivo puede pasar a través de estos esta
 
 **git tag** - Etiqueta un commit específico con un nombre para poder hacer referencia a él más fácilmente.
 
+
+# **AUTOR**
+* 👨‍💻*Om@r* - [Om@r](https://github.com/OmarUTEC)
+
 # Referencias Bibliograficas
 
 - La documentación oficial de Git: https://git-scm.com/doc
@@ -110,4 +114,4 @@ Es importante tener en cuenta que un archivo puede pasar a través de estos esta
 - El sitio web de GitHub: https://github.com/
 - El sitio web de Atlassian (que incluye una guía completa sobre Git y un tutorial interactivo): https://www.atlassian.com/git
 - El libro "Pro Git" de Scott Chacon and Ben Straub, disponible gratuitamente en línea: https://git-scm.com/book/en/v2
-- Los Apuntes de Mayo - https://losapuntesdemajo.vercel.app/
+- Los Apuntes de Majo - https://losapuntesdemajo.vercel.app/
