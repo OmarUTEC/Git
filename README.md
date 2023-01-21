@@ -27,17 +27,17 @@ GitHub es una plataforma web que proporciona alojamiento para proyectos de contr
 # Configuración básica de Git
 1. Configura tu nombre de usuario y correo electrónico en Git. Este paso es importante para identificar quién está realizando los cambios en el repositorio. Ejecuta los siguientes comandos en tu terminal o línea de comandos:
 
-git config --global user.name "Tu nombre de usuario"
-git config --global user.email "tu-correo@ejemplo.com"
+    `git config --global user.name "Tu nombre de usuario"`
+    `git config --global user.email "tu-correo@ejemplo.com"`
 
 
 2. Configura el editor de texto predeterminado que deseas utilizar con Git. Por ejemplo, si deseas utilizar el editor de texto "nano", ejecuta el siguiente comando:
 
-git config --global core.editor nano
+    `git config --global core.editor nano`
 
 
 3. (Opcional) Configura una clave ssh para conectarte a repositorios remotos de forma segura. Este paso es necesario si deseas trabajar con repositorios remotos y deseas evitar ingresar tu contraseña cada vez que realices una operación. Puedes generar una clave ssh siguiendo las instrucciones en este enlace https://docs.github.com/es/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 4. (Opcional) Configura un alias para comandos de git. Los alias son una forma de asignar un nombre corto a un comando de git para facilitar su uso. Por ejemplo, si deseas crear un alias para el comando `git log --oneline --decorate --graph --all` puedes usar el siguiente comando: 
 
-git config --global alias.lg "log --oneline --decorate --graph --all"
+    `git config --global alias.lg "log --oneline --decorate --graph --all"`
