@@ -103,7 +103,7 @@ Es importante tener en cuenta que un archivo puede pasar a través de estos esta
 **git tag** - Etiqueta un commit específico con un nombre para poder hacer referencia a él más fácilmente.
 
 
-# **AUTOR**
+# **Autor**
 * 👨‍💻[Om@r](https://github.com/OmarUTEC)
 
 # Referencias Bibliograficas
