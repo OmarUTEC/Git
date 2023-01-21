@@ -124,8 +124,8 @@ Para fusionar una rama con la rama en la que estás actualmente, puedes usar el 
 
 Para eliminar una rama, puedes usar el comando ´git branch -d nombre_de_la_rama´. Ten en cuenta que no puedes eliminar una rama si aún no ha sido fusionada.
 
-# **AUTOR**
-* 👨‍💻*Om@r* - [Om@r](https://github.com/OmarUTEC)
+# **Autor**
+* 👨‍💻[Omar](https://github.com/OmarUTEC)
 
 # Referencias Bibliograficas
 
