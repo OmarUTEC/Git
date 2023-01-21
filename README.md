@@ -41,3 +41,18 @@ GitHub es una plataforma web que proporciona alojamiento para proyectos de contr
 4. (Opcional) Configura un alias para comandos de git. Los alias son una forma de asignar un nombre corto a un comando de git para facilitar su uso. Por ejemplo, si deseas crear un alias para el comando `git log --oneline --decorate --graph --all` puedes usar el siguiente comando: 
 
     `git config --global alias.lg "log --oneline --decorate --graph --all"`
+
+# Creación de tu primer repositorio en Git
+1. Crea una carpeta en tu sistema para alojar tu repositorio. Puedes llamarlo como desees, pero asegúrate de elegir un nombre significativo.
+
+2. Abre una terminal o línea de comandos y navega hasta la carpeta que acabas de crear.
+
+3. Inicia el repositorio utilizando el comando `git init`. Este comando creará una carpeta oculta llamada `.git` en la carpeta actual que alojará toda la información del repositorio.
+
+4. Crea algunos archivos y carpetas en la carpeta del repositorio. Puedes crear cualquier tipo de archivo o carpeta que desees, pero es recomendable crear al menos un archivo de texto vacío llamado "README" que describa el proyecto.
+
+5. Agrega los archivos creados al repositorio utilizando el comando `git add .`. El punto al final del comando indica que se deben agregar todos los archivos en la carpeta actual. Si solo deseas agregar un archivo específico, puedes especificar su nombre en lugar del punto.
+
+6. Realiza una "commit" de los cambios utilizando el comando `git commit -m "Mensaje de commit inicial"`. El mensaje de commit es importante ya que describe los cambios realizados en el repositorio. Asegúrate de elegir un mensaje significativo.
+
+7. (Opcional) Si deseas subir tu repositorio a un servidor remoto como GitHub, debes crear un repositorio en GitHub y seguir las instrucciones para conectarte a él desde tu computadora utilizando el comando `git remote add origin <url del repositorio>`. Luego podrás subir tus cambios con el comando `git push -u origin master`
