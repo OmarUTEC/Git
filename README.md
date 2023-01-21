@@ -104,7 +104,7 @@ Es importante tener en cuenta que un archivo puede pasar a través de estos esta
 
 
 # **Autor**
-* 👨‍💻[Om@r](https://github.com/OmarUTEC)
+* 👨‍💻[Omar](https://github.com/OmarUTEC)
 
 # Referencias Bibliograficas
 
