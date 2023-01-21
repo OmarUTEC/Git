@@ -76,13 +76,13 @@ Es importante tener en cuenta que un archivo puede pasar a través de estos esta
 
 **git add** - Agrega archivos al área de preparación.
 
+**git diff** - Muestra las diferencias entre los archivos en el directorio de trabajo y el área de preparación.
+
 **git commit** - Crea un nuevo commit con los archivos en el área de preparación.
 
 **git status** - Muestra el estado actual de los archivos en el repositorio.
 
 **git log** - Muestra la historia de los commits en el repositorio.
-
-**git diff** - Muestra las diferencias entre los archivos en el directorio de trabajo y el área de preparación.
 
 **git branch** - Muestra las ramas existentes en el repositorio.
 
@@ -136,3 +136,8 @@ Para eliminar una rama, puedes usar el comando ´git branch -d nombre_de_la_rama
 - El sitio web de Atlassian (que incluye una guía completa sobre Git y un tutorial interactivo): https://www.atlassian.com/git
 - El libro "Pro Git" de Scott Chacon and Ben Straub, disponible gratuitamente en línea: https://git-scm.com/book/en/v2
 - Los Apuntes de Majo - https://losapuntesdemajo.vercel.app/
+
+
+<p align="center">
+  <img src="git2.png" />
+</p>
