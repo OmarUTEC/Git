@@ -102,6 +102,27 @@ Es importante tener en cuenta que un archivo puede pasar a través de estos esta
 
 **git tag** - Etiqueta un commit específico con un nombre para poder hacer referencia a él más fácilmente.
 
+# Ramas en Git
+
+Una rama en Git es simplemente un apuntador móvil a una de los commits. La rama por defecto en un repositorio nuevo es la rama ´master´.
+
+## Crear una nueva rama
+
+Para crear una nueva rama y cambiarte a ella, puedes usar el comando ´git branch nombre_de_la_rama´ seguido del comando ´git checkout nombre_de_la_rama´.
+
+También puedes crear una nueva rama y cambiarte a ella de un solo comando ´git checkout -b nombre_de_la_rama´.
+
+## Cambiar entre ramas
+
+Para cambiar entre ramas, puedes usar el comando ´git checkout nombre_de_la_rama´.
+
+## Fusionar ramas
+
+Para fusionar una rama con la rama en la que estás actualmente, puedes usar el comando ´git merge nombre_de_la_rama´ dentro de la rama en la que estás actualmente.
+
+## Eliminar una rama
+
+Para eliminar una rama, puedes usar el comando ´git branch -d nombre_de_la_rama´. Ten en cuenta que no puedes eliminar una rama si aún no ha sido fusionada.
 
 # **AUTOR**
 * 👨‍💻*Om@r* - [Om@r](https://github.com/OmarUTEC)
