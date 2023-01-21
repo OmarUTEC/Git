@@ -71,20 +71,35 @@ Es importante tener en cuenta que un archivo puede pasar a través de estos esta
 # Comandos más usados de Git
 
 **git init** - Inicializa un nuevo repositorio en la carpeta actual.
+
 **git clone** - Crea una copia de un repositorio remoto en la carpeta local.
-**git add** - Agrega archivos al área de preparación
+
+**git add** - Agrega archivos al área de preparación.
+
 **git commit** - Crea un nuevo commit con los archivos en el área de preparación.
+
 **git status** - Muestra el estado actual de los archivos en el repositorio.
+
 **git log** - Muestra la historia de los commits en el repositorio.
+
 **git diff** - Muestra las diferencias entre los archivos en el directorio de trabajo y el área de preparación.
+
 **git branch** - Muestra las ramas existentes en el repositorio.
+
 **git checkout** - Cambia entre ramas o restaura archivos a un estado específico.
+
 **git merge** - Combina los cambios de una rama a otra.
+
 **git pull** - Trae los cambios de un repositorio remoto a la rama actual.
+
 **git push** - Envía los cambios de la rama actual a un repositorio remoto.
+
 **git fetch** - Descarga los cambios del repositorio remoto pero no los combina con la rama actual.
+
 **git remote** - Muestra los repositorios remotos asociados con el repositorio local.
+
 **git stash** - Guarda los cambios no guardados en una "stash" para poder cambiar de rama sin perder los cambios.
+
 **git tag** - Etiqueta un commit específico con un nombre para poder hacer referencia a él más fácilmente.
 
 # Referencias Bibliograficas
