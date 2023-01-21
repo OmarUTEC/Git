@@ -71,7 +71,9 @@ Es importante tener en cuenta que un archivo puede pasar a través de estos esta
 # Comandos más usados de Git
 
 **git init** - Inicializa un nuevo repositorio en la carpeta actual.
+
 **git clone** - Crea una copia de un repositorio remoto en la carpeta local.
+
 **git add** - Agrega archivos al área de preparación
 **git commit** - Crea un nuevo commit con los archivos en el área de preparación.
 **git status** - Muestra el estado actual de los archivos en el repositorio.
