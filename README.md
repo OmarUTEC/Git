@@ -87,3 +87,12 @@ Es importante tener en cuenta que un archivo puede pasar a través de estos esta
 **git stash** - Guarda los cambios no guardados en una "stash" para poder cambiar de rama sin perder los cambios.
 **git tag** - Etiqueta un commit específico con un nombre para poder hacer referencia a él más fácilmente.
 
+# Referencias Bibliograficas
+
+- La documentación oficial de Git: https://git-scm.com/doc
+- La documentación oficial de GitHub: https://docs.github.com/
+- El sitio web de Git: https://git-scm.com/
+- El sitio web de GitHub: https://github.com/
+- El sitio web de Atlassian (que incluye una guía completa sobre Git y un tutorial interactivo): https://www.atlassian.com/git
+- El libro "Pro Git" de Scott Chacon and Ben Straub, disponible gratuitamente en línea: https://git-scm.com/book/en/v2
+- Los Apuntes de Mayo - https://losapuntesdemajo.vercel.app/
