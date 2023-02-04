@@ -141,3 +141,5 @@ Para eliminar una rama, puedes usar el comando ´git branch -d nombre_de_la_rama
 <p align="center">
   <img src="git2.jpg" />
 </p>
+
+# **Licencia**
